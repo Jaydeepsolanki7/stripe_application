@@ -23,5 +23,7 @@ module StripeApp
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    config.hosts << "0ce1-2405-201-3027-e0bf-5ffb-c509-5ec5-1adb.ngrok-free.app"
+    config.hosts << "0ce1-2405-201-3027-e0bf-5ffb-c509-5ec5-1adb.ngrok-free.app"
   end
 end
